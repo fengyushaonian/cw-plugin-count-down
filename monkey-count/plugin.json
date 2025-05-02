@@ -1,12 +1,12 @@
 {
     "name": "MONKEY-COUNTDOWN",
     "description": "BYMONKEY",
-    "version": "1.1.0",
+    "version": "1.1.1",
     "plugin_ver": 1,
     "author": "MONKEY",
     "settings": true,
 
-    "url": "https://github.com/fengyushaonian/monkey-s-plugins",
+    "url": "https://github.com/fengyushaonian/cw-plugin-count-down/",
     "branch": "main",
 
     "update_date": "2025/4/30"
